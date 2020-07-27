@@ -30,3 +30,5 @@
 3.複製 **API Access Key**
 
 ![image](https://github.com/secret3557/FM622A_Lab23_updates/blob/master/Lab23%E6%AD%A5%E9%A9%9F%E5%9C%96/%E5%9C%96%E7%89%876.png)
+
+4.執行 Lab23.py 範例程式碼(記得將 WiFi 名稱、密碼及金鑰改掉)
